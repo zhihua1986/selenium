@@ -1,0 +1,4 @@
+salesman,number,whs,account,receiver,phone,province,city,area,address,supplier,shop,amount,price,gift,预期结果
+zy1,sgkd11111,ck1,小戏子,,18328710254,四川,成都,锦江区,天府软件园C区2东,dw1,sp1,5,10,是,收货人不能为空！
+zy2,sgkd11112,ck2,黄主管,往前一,18325463254,北京,北京市,东城区,北京天安门广场,dw2,sp2,6,20,否,过账成功
+zy3,gdfggrret,ck1,淘宝55,,18325758463,上海,上海市,黄浦区,黄浦区大道一段2号,dw1,sp3,7,30,否,收货人不能为空！
